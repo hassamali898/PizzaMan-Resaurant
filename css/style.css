@@ -911,6 +911,7 @@ h3 {
   font-weight: 400;
   font-size: 18px;
   color: #ffffff;
+  margin-bottom: 8rem;
   font-family: "Paytone One", sans-serif;
 }
 /* line 89, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_header.scss */
@@ -1153,6 +1154,9 @@ h3 {
 }
 .slider_bg_4 {
   background-image: url(../img/banner/banner3.jpg);
+}
+.slider_bg_5 {
+  background-image: url(../img/banner/banner4.jpg);
 }
 
 /* line 7, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_slider.scss */
